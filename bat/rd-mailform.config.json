@@ -1,0 +1,8 @@
+{
+  "useSmtp": false,
+  "host": "smtp.mandrillapp.com",
+  "port": 465,
+  "username": "coinvest518@gmail.com",
+  "password": "d5de33555527a8cc222fe2722b470a76-us1",
+  "recipientEmail": "coinvest518@gmail.com"
+}
